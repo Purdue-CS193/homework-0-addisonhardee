@@ -7,7 +7,6 @@ My favorite things about CS193:
 - Challenges
 - Debugging
 - The friends I've made so far
-- My TA's
 - Using Github. I haven't used it that much before so I am excited.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
